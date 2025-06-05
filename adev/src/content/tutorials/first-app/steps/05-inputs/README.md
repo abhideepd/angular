@@ -1,4 +1,4 @@
-# Add an input parameter to the component
+# Add an input parameter to the componen
 
 This tutorial lesson demonstrates how to create a component `@Input()` and use it to pass data to a component for customization.
 
